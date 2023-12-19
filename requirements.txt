@@ -74,7 +74,6 @@ colorama==0.4.6
 configobj==5.0.8
 constantly==15.1.0
 contourpy==1.0.7
-crackmapexec==5.4.0
 crit==3.17.1
 cryptography==38.0.4
 cupshelpers==1.0
